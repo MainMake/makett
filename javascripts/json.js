@@ -71,7 +71,7 @@ var Json = {
             name:'Rem(Rk)',
             date:'2017.3',
             detail:'rem抽奖页面',
-            image:['images/jsonImages/rk1.png','images/jsonImages/rk2.png','images/jsonImages/rk3.png','images/jsonImages/rk4.png'],
+            image:['images/jsonImages/rk1.png','images/jsonImages/rk2.png','images/jsonImages/rk3.png','images/jsonImages/r666.png'],
             link:'demo/RK.html' 
        },
         {
