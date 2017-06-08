@@ -80,6 +80,13 @@ var Json = {
             detail:'rem排行抽奖',
             image:['images/jsonImages/codeR1.png','images/jsonImages/codeR2.png','images/jsonImages/codeR1.png','images/jsonImages/codeR2.png'],
             link:'demo/coderandom.html' 
+       },
+        {
+            name:'ANIMBUS门户整站',
+            date:'2017.5~6',
+            detail:'基于wordpress的门户整站。html5+css3+jq+js 响应式',
+            image:['images/jsonImages/wp1.png','images/jsonImages/wp2.png','images/jsonImages/wp3.png','images/jsonImages/wp4.png'],
+            link:'http://211.152.52.106/price' 
        }
         
     ],
